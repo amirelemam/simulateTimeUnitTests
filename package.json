@@ -1,0 +1,17 @@
+{
+  "name": "simulate-time",
+  "version": "1.0.0",
+  "main": "",
+  "description": "",
+  "scripts": {
+    "test": "mocha __tests__/**/*.test.js"
+  },
+  "keywords": [],
+  "author": "Amir Elemam",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "lolex": "^4.1.0",
+    "moment": "^2.24.0"
+  }
+}
