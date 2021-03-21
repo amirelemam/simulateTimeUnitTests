@@ -1,4 +1,4 @@
-## Simulate Time on an Unit Test
+## Simulate Time in Unit Tests
 
 This project is an example of how to simulate time on an unit test.
 
